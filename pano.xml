@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.11" apprev="18043">
+  <panorama hideabout="1" id="node1">
+    <input overlap="1" leveltilesize="510" height="4000" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="4000" levelingpitch="0">
+      <level predecode="0" height="4000" preload="0" width="4000"/>
+      <level predecode="0" height="2000" preload="0" width="2000"/>
+      <level predecode="0" height="1000" preload="0" width="1000"/>
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="234.2">
+      <start pan="93.71" tilt="0" fov="152.086" projection="4"/>
+      <flyin pan="93.71" tilt="0" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node1" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Прихожая" customnodeid="" comment="" source="" heading="234.2" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Детская комната" id="Point01" url="{node7}" pan="-238.71" tilt="0" target="-26.4/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Ванная комната" id="Point03" url="{node5}" pan="-166.1" tilt="0" target="-4.0/-14.8/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Гостиная" id="Point04" url="{node6}" pan="-224.42" tilt="0" target="4.0/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Выход в подъезд" id="Point02" url="{node3}" pan="-84.35" tilt="0" target="0.0/0.0/120"/>
+      <polyhotspot bordercolor="0x0000ff" description="" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" title="Открыть шкаф" id="PolyClosed" url="{node4}" target="">
+        <polystring>-323.14/-59.3|-322.5/29.35|-322.77/61.66|-35.62/59.88|-35.91/-58.03|-1.28/-62.98</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input overlap="1" leveltilesize="510" height="4000" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="4000" levelingpitch="0">
+      <level predecode="0" height="4000" preload="0" width="4000"/>
+      <level predecode="0" height="2000" preload="0" width="2000"/>
+      <level predecode="0" height="1000" preload="0" width="1000"/>
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="93.71" tilt="0" fov="152.086" projection="4"/>
+      <flyin pan="93.71" tilt="0" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node4" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Прихожая" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <polyhotspot description="" title="Закрыть шкаф" id="PolyOpen" url="{node1}" target="">
+        <polystring>-325.04/61.6|-286.59/69.01|-285.92/-67.53|-325.03/-60.2</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Закрыть шкаф" id="PolyOpen" url="{node1}" target="">
+        <polystring>-37.29/61.08|-68.81/66.21|-69.26/-64.66|-36.67/-58.63</polystring>
+      </polyhotspot>
+      <hotspot description="" skinid="ht_node" title="Выход в подъезд" id="Point02" url="{node3}" pan="-84" tilt="0" target="0.0/0.0/120"/>
+      <hotspot description="" skinid="ht_node" title="Детская комната" id="Point01" url="{node7}" pan="-240.13" tilt="0" target="-26.4/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Гостиная" id="Point04" url="{node6}" pan="-223.83" tilt="0" target="4.0/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Ванная комната" id="Point03" url="{node5}" pan="-177.56" tilt="0" target="-4.0/-14.8/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input overlap="1" leveltilesize="510" height="4000" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="4000" levelingpitch="0">
+      <level predecode="0" height="4000" preload="0" width="4000"/>
+      <level predecode="0" height="2000" preload="0" width="2000"/>
+      <level predecode="0" height="1000" preload="0" width="1000"/>
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="141.787" projection="4"/>
+      <flyin pan="0" tilt="0" fov="120" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node3" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Выход в подъезд" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Прихожая" id="Point01" url="{node1}" pan="-359.24" tilt="0" target="93.7/0.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-4" tilt="-1" fov="152.086" projection="4"/>
+      <flyin pan="-4" tilt="-1" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node5" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Ванная комната" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Детская комната" id="Point01" url="{node7}" pan="-222.22" tilt="0" target="-26.4/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Гостиная" id="Point02" url="{node6}" pan="-151.58" tilt="0" target="4.0/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Кабинет" id="Point03" url="{node9}" pan="-120.7" tilt="0" target="-6.0/-7.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Прихожая" id="Point04" url="{node1}" pan="-307.33" tilt="0" target="93.7/0.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="4" tilt="0" fov="152.086" projection="4"/>
+      <flyin pan="4" tilt="0" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node6" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Гостиная" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Ванная комната" id="Point01" url="{node5}" pan="-236.75" tilt="0" target="-4.0/-1.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Спальня" id="Point02" url="{node8}" pan="-323.89" tilt="0" target="2.0/-15.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Кабинет" id="Point03" url="{node9}" pan="-347.29" tilt="0" target="-6.0/-7.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-26.36" tilt="0" fov="152.086" projection="4"/>
+      <flyin pan="-26.36" tilt="0" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node7" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Детская комната" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Выход на лоджию" id="Point01" url="{node12}" pan="-359.23" tilt="1.42" target="107.0/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Прихожая" id="Point02" url="{node1}" pan="-163.4" tilt="0" target="-89.0/0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Ванная комната" id="Point03" url="{node5}" pan="-192.31" tilt="0" target="-4.0/-1.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Гостиная" id="Point04" url="{node6}" pan="-262.43" tilt="0" target="4.0/0.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="2" tilt="-15" fov="152.086" projection="4"/>
+      <flyin pan="2" tilt="-15" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node8" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Спальня" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Гостиная" id="Point01" url="{node6}" pan="-254.96" tilt="-0.14" target="-172.4/-2.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Душевая комната" id="Point02" url="{node10}" pan="-303.92" tilt="0" target="25.4/0.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Выход на лоджию" id="Point03" url="{node11}" pan="-65.69" tilt="0" target="-24.3/0.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="-6" tilt="-7" fov="152.086" projection="4"/>
+      <flyin pan="-6" tilt="-7" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node9" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Кабинет" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Гостиная" id="Point01" url="{node6}" pan="-97.48" tilt="0" target="-178.3/-0.5/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Ванная комната" id="Point02" url="{node5}" pan="-115.48" tilt="0" target="-4.0/-1.0/135.0"/>
+      <hotspot description="" skinid="ht_node" title="Спальня" id="Point03" url="{node8}" pan="-185.39" tilt="0" target="2.0/-15.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="25.42" tilt="0" fov="152.086" projection="4"/>
+      <flyin pan="25.42" tilt="0" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node10" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Душевая комната" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Спальня" id="Point01" url="{node8}" pan="-214.43" tilt="0" target="2.0/-15.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="166">
+      <start pan="-24.32" tilt="0" fov="152.086" projection="4"/>
+      <flyin pan="-24.32" tilt="0" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="All pano" nodeid="node11" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Выход на лоджию" customnodeid="" comment="" source="" heading="166" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Спальня" id="Point01" url="{node8}" pan="-338.11" tilt="0" target="2.0/-15.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input overlap="1" leveltilesize="510" height="3750" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="3750" levelingpitch="0">
+      <level predecode="0" height="3750" preload="0" width="3750"/>
+      <level predecode="0" height="1875" preload="0" width="1875"/>
+      <level predecode="0" height="937" preload="0" width="937"/>
+      <level predecode="1" height="468" preload="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="107" tilt="0" fov="152.086" projection="4"/>
+      <flyin pan="107" tilt="0" fov="135" projection="4"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" fov="135"/>
+    </view>
+    <userdata description="Шоурум ЖК Элерон" datetime="02.10.2026 17:19" tags="" nodeid="node12" author="Shardakov Dmitriy" copyright="Copyright © Shardakov Dmitriy" title="Выход на лоджию" customnodeid="" comment="" source="" heading="0" info="https://ingroupp.ru/projects/eleron/" longitude="72.056071" latitude="41.655157"/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="0" backgroundalpha="1" background="0" backgroundcolor="0xffffff" wordwrap="0" textcolor="0x000000" border="0" height="20" width="180" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" skinid="ht_node" title="Детская комната" id="Point01" url="{node7}" pan="-0.7" tilt="0" target="-26.4/0.0/135.0"/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="0" keep="1" level="0.300" id="legkiy-perehod-s-audio-na-titryi-39287" url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3"/>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" softedge="0" type="crossdissolve" zoomafteroutfov="20"/>
+    <autorotate speed="0.040" returntohorizon="3.000" enabled="1" delay="8.00" startloaded="0" useanimation="0" nodefilter="" nodedelay="0.00" noderandom="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" contextprojections="0" rubberband="1" dblclickfullscreen="0" simulatemass="1" hideabout="1" sensitivity="8" lockedmouse="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" datetime="" tags="2022-05-10 ТуркестанКазах|100_0061" nodeid="master" author="" copyright="" title="" customnodeid="" comment="" source="" heading="0" info="" longitude="72.056071" latitude="41.655157"/>
+  </masternode>
+</tour>
